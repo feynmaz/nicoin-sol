@@ -1,3 +1,3 @@
-# ICO implementation
+# Nicoin
 
-Build "nicoin" coin and launch ICO. 
+Build "nicoin" coin and launch ICO with solidity. 
